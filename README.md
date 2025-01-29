@@ -38,8 +38,6 @@ This is a simple iOS application created using Swift and UIKit. The app allows u
 
 - changeColor() function to generate random colors.
 
-### A Demo Video
-![Video Description](/video.mov)
 
 ## App Planning
 
