@@ -30,6 +30,9 @@ This is a simple iOS application created using Swift and UIKit. The app allows u
 
 - Label text colors are updated to ensure readability.
 
+### Demo video
+[Watch the demo video](/video-ezgif.com-video-to-gif-converter.gif)
+
 ### Code Components:
 
 - @IBOutlet for connecting UI elements.
